@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CartApp/static/css/main.707b488b.chunk.css",
-    "main.js": "/CartApp/static/js/main.f8b20120.chunk.js",
-    "main.js.map": "/CartApp/static/js/main.f8b20120.chunk.js.map",
+    "main.js": "/CartApp/static/js/main.3992ece4.chunk.js",
+    "main.js.map": "/CartApp/static/js/main.3992ece4.chunk.js.map",
     "runtime-main.js": "/CartApp/static/js/runtime-main.8d13e4b8.js",
     "runtime-main.js.map": "/CartApp/static/js/runtime-main.8d13e4b8.js.map",
     "static/css/2.818011ed.chunk.css": "/CartApp/static/css/2.818011ed.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.0e4f13e8.chunk.js",
     "static/css/main.707b488b.chunk.css",
-    "static/js/main.f8b20120.chunk.js"
+    "static/js/main.3992ece4.chunk.js"
   ]
 }
